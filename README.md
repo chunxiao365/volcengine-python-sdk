@@ -15,6 +15,7 @@ Python版本需要不低于2.7。
 Install via [Setuptools](http://pypi.python.org/pypi/setuptools).
 
 ```sh
+python setup.py build  
 python setup.py install --user
 ```
 
